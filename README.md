@@ -4,10 +4,10 @@ Some Bioinformatics Codes that I wrote.
 Using linux 
 go to the folder where you have the test.cpp code and testfasta.fasta
 
-type these (omit ">> "):
+
 ``` 
-g++ test.cpp
-./a.out 
+$ g++ test.cpp
+$ ./a.out 
 ```
 
 this will generate all the Sequence(n).fasta files
